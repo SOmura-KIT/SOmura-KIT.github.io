@@ -16,58 +16,58 @@ LinuxはOSではない。Linuxはあくまでカーネルである。
 ## ディストリビューション
 Linuxディストリビューションは、パッケージマネージャとウィンドウマネージャくらいしか違いが無い。
 
-- Debian系
+- Debian系<br>
     dpkg, aptをパッケージマネージャとする
 
-- Ubuntu系
+- Ubuntu系<br>
     dpkg, aptを採用しているならDebian系では？
     Ubuntuが単体で強いから、別で扱われている。
     本家はGNOME(過去にUnity)をwmとしているが、他のwmを使用するUbuntuフレーバーが存在する。
 
-- RedHat系
+- RedHat系<br>
     rpm, yumをパッケージマネージャとする
 
-- SlackWare系
+- SlackWare系<br>
     パッケージマネージャを同梱しない。
 
-- SUSE系
+- SUSE系<br>
     rpm, zipperをパッケージマネージャとする
 
-- Arch系
+- Arch系<br>
     pacmanをパッケージマネージャとする。
     btw, I use Arch
 
-- Gentoo系
+- Gentoo系<br>
     portageをパッケージマネージャとする。
     chromium osもgentooの系統だったり。
 
-- NixOS
+- NixOS<br>
     nixをパッケージマネージャとする
 
 ## WM, DE
 ウィンドウマネージャまたはデスクトップ環境。
 
-- GNOME
+- GNOME<br>
     DE。
     2大巨頭その1。
     MACに近い。
-- KDE
+- KDE<br>
     DE。
     2大巨頭その2。
     Windowsに近い。
-- Mate
+- Mate<br>
     DE。
     メイトでなくマテ茶のマテ。
-- Cinamon
+- Cinamon<br>
     DE。
     MateからMintを奪ったやつ。
-- i3
+- i3<br>
     WM。
     Xでタイル型ならこれ。
-- Sway
+- Sway<br>
     Wayland Compositor。
     Waylandでタイル型ならこれ。
-- Hyprland
+- Hyprland<br>
     Wayland Compositor。
     タイル型。
     Unix Porn御用達。
